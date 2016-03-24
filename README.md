@@ -12,7 +12,9 @@ Which required and optional stories have you completed?
 
 •  Completed Tips application based on Codepath instruction.
 
-c1codepath-tips/Tips.gif
+![alt tag](https://github.com/dalambdin/c1codepath-tips/blob/master/Tips.gif)
+
+
 
 Tips_2_0
 
