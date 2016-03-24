@@ -12,8 +12,7 @@ Which required and optional stories have you completed?
 
 •  Completed Tips application based on Codepath instruction.
 
-GIF walkthrough of all required and optional stories (using LICEcap)
-
+c1codepath-tips/Tips.gif
 
 Tips_2_0
 
