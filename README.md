@@ -22,3 +22,5 @@ Added version 2 with experimenting with alternate layout and design.
 
 • Added static keyboard
 • Added placeholder text to bill amount input
+
+![alt tag](https://github.com/dalambdin/c1codepath-tips/blob/master/Tips2.gif)
