@@ -1,5 +1,5 @@
 # c1codepath-tips
-Vanila Tip Calculator
+Tips
 
 How many hours did it take to complete?
 3hrs
@@ -13,3 +13,11 @@ Which required and optional stories have you completed?
 •  Completed Tips application based on Codepath instruction.
 
 GIF walkthrough of all required and optional stories (using LICEcap)
+
+
+Tips_2_0
+
+Added version 2 with experimenting with alternate layout and design. 
+
+• Added static keyboard
+• Added placeholder text to bill amount input
